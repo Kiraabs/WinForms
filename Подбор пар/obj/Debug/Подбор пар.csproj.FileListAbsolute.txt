@@ -1,0 +1,21 @@
+D:\205 личное\Перебор пар\Подбор пар\obj\Debug\Подбор пар.csproj.AssemblyReference.cache
+D:\205 личное\Перебор пар\Подбор пар\obj\Debug\Подбор пар.csproj.SuggestedBindingRedirects.cache
+D:\205 личное\Перебор пар\Подбор пар\obj\Debug\Подбор_пар.Form1.resources
+D:\205 личное\Перебор пар\Подбор пар\obj\Debug\Подбор_пар.Properties.Resources.resources
+D:\205 личное\Перебор пар\Подбор пар\obj\Debug\Подбор пар.csproj.GenerateResource.cache
+D:\205 личное\Перебор пар\Подбор пар\obj\Debug\Подбор пар.csproj.CoreCompileInputs.cache
+D:\205 личное\Перебор пар\Подбор пар\bin\Debug\Подбор пар.exe.config
+D:\205 личное\Перебор пар\Подбор пар\bin\Debug\Подбор пар.exe
+D:\205 личное\Перебор пар\Подбор пар\bin\Debug\Подбор пар.pdb
+D:\205 личное\Перебор пар\Подбор пар\obj\Debug\Подбор пар.exe
+D:\205 личное\Перебор пар\Подбор пар\obj\Debug\Подбор пар.pdb
+C:\Users\студент.IVPEK\Desktop\Подбор пар\bin\Debug\Подбор пар.exe.config
+C:\Users\студент.IVPEK\Desktop\Подбор пар\bin\Debug\Подбор пар.exe
+C:\Users\студент.IVPEK\Desktop\Подбор пар\bin\Debug\Подбор пар.pdb
+C:\Users\студент.IVPEK\Desktop\Подбор пар\obj\Debug\Подбор пар.csprojAssemblyReference.cache
+C:\Users\студент.IVPEK\Desktop\Подбор пар\obj\Debug\Подбор_пар.Form1.resources
+C:\Users\студент.IVPEK\Desktop\Подбор пар\obj\Debug\Подбор_пар.Properties.Resources.resources
+C:\Users\студент.IVPEK\Desktop\Подбор пар\obj\Debug\Подбор пар.csproj.GenerateResource.cache
+C:\Users\студент.IVPEK\Desktop\Подбор пар\obj\Debug\Подбор пар.csproj.CoreCompileInputs.cache
+C:\Users\студент.IVPEK\Desktop\Подбор пар\obj\Debug\Подбор пар.exe
+C:\Users\студент.IVPEK\Desktop\Подбор пар\obj\Debug\Подбор пар.pdb
