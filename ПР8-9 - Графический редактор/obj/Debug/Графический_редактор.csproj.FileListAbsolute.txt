@@ -1,0 +1,22 @@
+C:\Users\kira\Desktop\Forms\ПР 8\Графический_редактор\bin\Debug\Графический_редактор.exe.config
+C:\Users\kira\Desktop\Forms\ПР 8\Графический_редактор\bin\Debug\Графический_редактор.exe
+C:\Users\kira\Desktop\Forms\ПР 8\Графический_редактор\bin\Debug\Графический_редактор.pdb
+C:\Users\kira\Desktop\Forms\ПР 8\Графический_редактор\obj\Debug\Графический_редактор.csproj.AssemblyReference.cache
+C:\Users\kira\Desktop\Forms\ПР 8\Графический_редактор\obj\Debug\Графический_редактор.csproj.SuggestedBindingRedirects.cache
+C:\Users\kira\Desktop\Forms\ПР 8\Графический_редактор\obj\Debug\Графический_редактор.Form1.resources
+C:\Users\kira\Desktop\Forms\ПР 8\Графический_редактор\obj\Debug\Графический_редактор.Properties.Resources.resources
+C:\Users\kira\Desktop\Forms\ПР 8\Графический_редактор\obj\Debug\Графический_редактор.csproj.GenerateResource.cache
+C:\Users\kira\Desktop\Forms\ПР 8\Графический_редактор\obj\Debug\Графический_редактор.csproj.CoreCompileInputs.cache
+C:\Users\kira\Desktop\Forms\ПР 8\Графический_редактор\obj\Debug\Графический_редактор.exe
+C:\Users\kira\Desktop\Forms\ПР 8\Графический_редактор\obj\Debug\Графический_редактор.pdb
+C:\Users\студент.IVPEK.000\Desktop\Графический_редактор\obj\Debug\Графический_редактор.csprojAssemblyReference.cache
+C:\Users\студент.IVPEK.000\Desktop\Графический_редактор\obj\Debug\Графический_редактор.exe
+C:\Users\студент.IVPEK.000\Desktop\Графический_редактор\obj\Debug\Графический_редактор.pdb
+C:\Users\студент.IVPEK.000\Desktop\Графический_редактор\bin\Debug\Графический_редактор.exe.config
+C:\Users\студент.IVPEK.000\Desktop\Графический_редактор\bin\Debug\Графический_редактор.exe
+C:\Users\студент.IVPEK.000\Desktop\Графический_редактор\bin\Debug\Графический_редактор.pdb
+C:\Users\студент.IVPEK.000\Desktop\Графический_редактор\obj\Debug\Графический_редактор.Properties.Resources.resources
+C:\Users\студент.IVPEK.000\Desktop\Графический_редактор\obj\Debug\Графический_редактор.csproj.GenerateResource.cache
+C:\Users\студент.IVPEK.000\Desktop\Графический_редактор\obj\Debug\Графический_редактор.csproj.CoreCompileInputs.cache
+C:\Users\студент.IVPEK.000\Desktop\Графический_редактор\obj\Debug\Графический_редактор.Form1.resources
+C:\Users\студент.IVPEK.000\Desktop\Графический_редактор\obj\Debug\Графический_редактор.Colors.resources
