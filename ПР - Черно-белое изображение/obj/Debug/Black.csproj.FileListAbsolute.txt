@@ -1,0 +1,22 @@
+D:\205\White to black (ПР 12)\Black\bin\Debug\Black.exe.config
+D:\205\White to black (ПР 12)\Black\bin\Debug\Black.exe
+D:\205\White to black (ПР 12)\Black\bin\Debug\Black.pdb
+D:\205\White to black (ПР 12)\Black\obj\Debug\Black.csproj.AssemblyReference.cache
+D:\205\White to black (ПР 12)\Black\obj\Debug\Black.csproj.SuggestedBindingRedirects.cache
+D:\205\White to black (ПР 12)\Black\obj\Debug\Black.Form1.resources
+D:\205\White to black (ПР 12)\Black\obj\Debug\Black.Properties.Resources.resources
+D:\205\White to black (ПР 12)\Black\obj\Debug\Black.csproj.GenerateResource.cache
+D:\205\White to black (ПР 12)\Black\obj\Debug\Black.csproj.CoreCompileInputs.cache
+D:\205\White to black (ПР 12)\Black\obj\Debug\Black.exe
+D:\205\White to black (ПР 12)\Black\obj\Debug\Black.pdb
+Z:\Общая для записи студентам\205 гр\Сеткин Синицын\Программирование\Forms\White to black (ПР 12)\Black\bin\Debug\Black.exe.config
+Z:\Общая для записи студентам\205 гр\Сеткин Синицын\Программирование\Forms\White to black (ПР 12)\Black\bin\Debug\Black.exe
+Z:\Общая для записи студентам\205 гр\Сеткин Синицын\Программирование\Forms\White to black (ПР 12)\Black\bin\Debug\Black.pdb
+Z:\Общая для записи студентам\205 гр\Сеткин Синицын\Программирование\Forms\White to black (ПР 12)\Black\obj\Debug\Black.csproj.AssemblyReference.cache
+Z:\Общая для записи студентам\205 гр\Сеткин Синицын\Программирование\Forms\White to black (ПР 12)\Black\obj\Debug\Black.csproj.SuggestedBindingRedirects.cache
+Z:\Общая для записи студентам\205 гр\Сеткин Синицын\Программирование\Forms\White to black (ПР 12)\Black\obj\Debug\Black.Form1.resources
+Z:\Общая для записи студентам\205 гр\Сеткин Синицын\Программирование\Forms\White to black (ПР 12)\Black\obj\Debug\Black.Properties.Resources.resources
+Z:\Общая для записи студентам\205 гр\Сеткин Синицын\Программирование\Forms\White to black (ПР 12)\Black\obj\Debug\Black.csproj.GenerateResource.cache
+Z:\Общая для записи студентам\205 гр\Сеткин Синицын\Программирование\Forms\White to black (ПР 12)\Black\obj\Debug\Black.csproj.CoreCompileInputs.cache
+Z:\Общая для записи студентам\205 гр\Сеткин Синицын\Программирование\Forms\White to black (ПР 12)\Black\obj\Debug\Black.exe
+Z:\Общая для записи студентам\205 гр\Сеткин Синицын\Программирование\Forms\White to black (ПР 12)\Black\obj\Debug\Black.pdb
