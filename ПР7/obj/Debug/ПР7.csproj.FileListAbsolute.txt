@@ -1,0 +1,33 @@
+Z:\Общая для записи студентам\205 гр\Сеткин Синицын\Программирование\Forms\ПР7\ПР7\bin\Debug\ПР7.exe.config
+Z:\Общая для записи студентам\205 гр\Сеткин Синицын\Программирование\Forms\ПР7\ПР7\bin\Debug\ПР7.exe
+Z:\Общая для записи студентам\205 гр\Сеткин Синицын\Программирование\Forms\ПР7\ПР7\bin\Debug\ПР7.pdb
+Z:\Общая для записи студентам\205 гр\Сеткин Синицын\Программирование\Forms\ПР7\ПР7\obj\Debug\ПР7.csproj.AssemblyReference.cache
+Z:\Общая для записи студентам\205 гр\Сеткин Синицын\Программирование\Forms\ПР7\ПР7\obj\Debug\ПР7.Form1.resources
+Z:\Общая для записи студентам\205 гр\Сеткин Синицын\Программирование\Forms\ПР7\ПР7\obj\Debug\ПР7.Properties.Resources.resources
+Z:\Общая для записи студентам\205 гр\Сеткин Синицын\Программирование\Forms\ПР7\ПР7\obj\Debug\ПР7.csproj.GenerateResource.cache
+Z:\Общая для записи студентам\205 гр\Сеткин Синицын\Программирование\Forms\ПР7\ПР7\obj\Debug\ПР7.csproj.CoreCompileInputs.cache
+Z:\Общая для записи студентам\205 гр\Сеткин Синицын\Программирование\Forms\ПР7\ПР7\obj\Debug\ПР7.exe
+Z:\Общая для записи студентам\205 гр\Сеткин Синицын\Программирование\Forms\ПР7\ПР7\obj\Debug\ПР7.pdb
+C:\Users\kira\Desktop\Forms\ПР7\ПР7\bin\Debug\ПР7.exe.config
+C:\Users\kira\Desktop\Forms\ПР7\ПР7\bin\Debug\ПР7.exe
+C:\Users\kira\Desktop\Forms\ПР7\ПР7\bin\Debug\ПР7.pdb
+C:\Users\kira\Desktop\Forms\ПР7\ПР7\obj\Debug\ПР7.csproj.AssemblyReference.cache
+C:\Users\kira\Desktop\Forms\ПР7\ПР7\obj\Debug\ПР7.csproj.SuggestedBindingRedirects.cache
+C:\Users\kira\Desktop\Forms\ПР7\ПР7\obj\Debug\ПР7.Form1.resources
+C:\Users\kira\Desktop\Forms\ПР7\ПР7\obj\Debug\ПР7.Properties.Resources.resources
+C:\Users\kira\Desktop\Forms\ПР7\ПР7\obj\Debug\ПР7.csproj.GenerateResource.cache
+C:\Users\kira\Desktop\Forms\ПР7\ПР7\obj\Debug\ПР7.csproj.CoreCompileInputs.cache
+C:\Users\kira\Desktop\Forms\ПР7\ПР7\obj\Debug\ПР7.exe
+C:\Users\kira\Desktop\Forms\ПР7\ПР7\obj\Debug\ПР7.pdb
+C:\Users\kira\Desktop\Forms\ПР7\bin\Debug\ПР7.exe.config
+C:\Users\kira\Desktop\Forms\ПР7\bin\Debug\ПР7.exe
+C:\Users\kira\Desktop\Forms\ПР7\bin\Debug\ПР7.pdb
+C:\Users\kira\Desktop\Forms\ПР7\obj\Debug\ПР7.csproj.AssemblyReference.cache
+C:\Users\kira\Desktop\Forms\ПР7\obj\Debug\ПР7.csproj.SuggestedBindingRedirects.cache
+C:\Users\kira\Desktop\Forms\ПР7\obj\Debug\ПР7.Form1.resources
+C:\Users\kira\Desktop\Forms\ПР7\obj\Debug\ПР7.Properties.Resources.resources
+C:\Users\kira\Desktop\Forms\ПР7\obj\Debug\ПР7.csproj.GenerateResource.cache
+C:\Users\kira\Desktop\Forms\ПР7\obj\Debug\ПР7.csproj.CoreCompileInputs.cache
+C:\Users\kira\Desktop\Forms\ПР7\obj\Debug\ПР7.exe
+C:\Users\kira\Desktop\Forms\ПР7\obj\Debug\ПР7.pdb
+C:\Users\kira\Desktop\Forms\ПР7\obj\Debug\ПР7.AddDialog.resources
