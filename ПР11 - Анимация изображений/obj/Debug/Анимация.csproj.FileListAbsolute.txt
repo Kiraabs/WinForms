@@ -1,0 +1,11 @@
+D:\205\ПР11\Анимация\bin\Debug\Анимация.exe.config
+D:\205\ПР11\Анимация\bin\Debug\Анимация.exe
+D:\205\ПР11\Анимация\bin\Debug\Анимация.pdb
+D:\205\ПР11\Анимация\obj\Debug\Анимация.csproj.AssemblyReference.cache
+D:\205\ПР11\Анимация\obj\Debug\Анимация.csproj.SuggestedBindingRedirects.cache
+D:\205\ПР11\Анимация\obj\Debug\Анимация.Form1.resources
+D:\205\ПР11\Анимация\obj\Debug\Анимация.Properties.Resources.resources
+D:\205\ПР11\Анимация\obj\Debug\Анимация.csproj.GenerateResource.cache
+D:\205\ПР11\Анимация\obj\Debug\Анимация.csproj.CoreCompileInputs.cache
+D:\205\ПР11\Анимация\obj\Debug\Анимация.exe
+D:\205\ПР11\Анимация\obj\Debug\Анимация.pdb
